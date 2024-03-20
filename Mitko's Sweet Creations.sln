@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mitko's Sweet Creations", "Mitko's Sweet Creations\Mitko's Sweet Creations.csproj", "{F3008E30-571C-4920-859E-232F12109E51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mitko's Sweet Creations.Core", "Mitko's Sweet Creations.Core\Mitko's Sweet Creations.Core.csproj", "{B662B162-C4A9-4304-B8F6-D6802E5C86FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3008E30-571C-4920-859E-232F12109E51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3008E30-571C-4920-859E-232F12109E51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3008E30-571C-4920-859E-232F12109E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3008E30-571C-4920-859E-232F12109E51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B662B162-C4A9-4304-B8F6-D6802E5C86FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B662B162-C4A9-4304-B8F6-D6802E5C86FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B662B162-C4A9-4304-B8F6-D6802E5C86FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B662B162-C4A9-4304-B8F6-D6802E5C86FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3CDD3E9-B2CA-4967-9F09-D33BC0C77771}
+	EndGlobalSection
+EndGlobal
